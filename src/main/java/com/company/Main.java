@@ -1,11 +1,11 @@
-package main.java.com.company;
+package com.company;
 
 import com.company.core.*;
-import main.java.com.company.core.Consumo;
-import main.java.com.company.core.Electrodomestico;
-import main.java.com.company.core.Procedencia;
-import main.java.com.company.core.productos.Nevera;
-import main.java.com.company.core.productos.Televisor;
+import com.company.core.Consumo;
+import com.company.core.Electrodomestico;
+import com.company.core.Procedencia;
+import com.company.core.productos.Nevera;
+import com.company.core.productos.Televisor;
 
 import java.util.ArrayList;
 import java.util.List;

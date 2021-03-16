@@ -1,7 +1,7 @@
-package main.java.com.company.core.productos;
+package com.company.core.productos;
 
-import main.java.com.company.core.Consumo;
-import main.java.com.company.core.Procedencia;
+import com.company.core.Consumo;
+import com.company.core.Procedencia;
 
 public interface Producto {
     Integer codigo();

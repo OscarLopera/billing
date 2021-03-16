@@ -1,8 +1,8 @@
-package main.java.com.company.core.productos;
+package com.company.core.productos;
 
-import main.java.com.company.core.Consumo;
-import main.java.com.company.core.Electrodomestico;
-import main.java.com.company.core.Procedencia;
+import com.company.core.Consumo;
+import com.company.core.Electrodomestico;
+import com.company.core.Procedencia;
 
 public class Nevera extends Electrodomestico {
 
