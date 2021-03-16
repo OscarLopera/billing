@@ -1,8 +1,8 @@
-package com.company.core.productos;
+package main.java.com.company.core.productos;
 
-import com.company.core.Consumo;
-import com.company.core.Electrodomestico;
-import com.company.core.Procedencia;
+import main.java.com.company.core.Consumo;
+import main.java.com.company.core.Electrodomestico;
+import main.java.com.company.core.Procedencia;
 
 public class Televisor extends Electrodomestico {
     private final Integer codigo;

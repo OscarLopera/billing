@@ -1,4 +1,4 @@
-package com.company.core;
+package main.java.com.company.core;
 
 public enum Consumo {
     A(450000D), B(350000D), C(250000D);

@@ -1,4 +1,4 @@
-package com.company.core;
+package main.java.com.company.core;
 
 public enum Procedencia {
     NACIONAL(250000), INTERNACIONAL(350000);

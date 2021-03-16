@@ -1,6 +1,6 @@
-package com.company.core;
+package main.java.com.company.core;
 
-import com.company.core.productos.Producto;
+import main.java.com.company.core.productos.Producto;
 
 
 public abstract class Electrodomestico implements Producto {
